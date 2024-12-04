@@ -22,7 +22,7 @@
 2. 初始化Node.js项目
 在你的项目目录下创建一个新的Node.js项目：
 
-bash
+
 复制代码
 mkdir my-telegram-bot
 cd my-telegram-bot
@@ -31,7 +31,7 @@ npm init -y
 3. 安装依赖
 使用node-telegram-bot-api库来简化与Telegram的交互。可以通过npm安装：
 
-bash
+
 复制代码
 npm install node-telegram-bot-api
 
@@ -40,7 +40,7 @@ npm install node-telegram-bot-api
 5. 运行机器人
 在命令行中运行你的代码：
 
-bash
+
 复制代码
 node index.js
 
