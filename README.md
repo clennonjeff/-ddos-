@@ -2,7 +2,8 @@
 
 案例机器人：DDOSDM_BOT
 
-
+![Alt text](https://github.com/clennonjeff/-ddos-/blob/main/1.png)
+![Alt text](https://github.com/clennonjeff/-ddos-/blob/main/2.png))
 
 功能介绍：
 
