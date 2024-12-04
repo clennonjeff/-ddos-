@@ -1,4 +1,10 @@
 # 闲来无事Node编写的一个Telegram bot Ddos 脚本
+
+案例机器人：DDOSDM_BOT
+
+![4b0c7b8ff0d0d389b20546aa5cdbea6](https://github.com/user-attachments/assets/04476c1d-34cf-4f6e-b071-633f5d4ac2e6)
+![f111698adb0218e74bee7fc00284e16](https://github.com/user-attachments/assets/5554751c-6ec2-45b7-93fb-824fd11e7e77)
+
 功能介绍：
 
 1.会员功能：可以增加会员账户，用户通过个人中心获取id和会员情况，可一键复制id。“管理员可通过命令：“/vip id 时间”为vip用户添加服务周期
